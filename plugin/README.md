@@ -1,1 +1,0 @@
-Kalo pengen nambah fitur, bisa copy paste dari sc plugin lain.
